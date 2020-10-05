@@ -1,2 +1,0 @@
-# TeamMembers
-Team Members
