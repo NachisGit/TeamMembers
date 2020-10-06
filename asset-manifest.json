@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spiceliveteam/static/css/main.de6bd89b.chunk.css",
+    "main.js": "/spiceliveteam/static/js/main.bb308dce.chunk.js",
+    "main.js.map": "/spiceliveteam/static/js/main.bb308dce.chunk.js.map",
+    "runtime-main.js": "/spiceliveteam/static/js/runtime-main.2d11f24b.js",
+    "runtime-main.js.map": "/spiceliveteam/static/js/runtime-main.2d11f24b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/spiceliveteam/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.173e4383.chunk.js": "/spiceliveteam/static/js/2.173e4383.chunk.js",
+    "static/js/2.173e4383.chunk.js.map": "/spiceliveteam/static/js/2.173e4383.chunk.js.map",
+    "index.html": "/spiceliveteam/index.html",
+    "precache-manifest.6da303345b2c39bd1ab7ab4212354169.js": "/spiceliveteam/precache-manifest.6da303345b2c39bd1ab7ab4212354169.js",
+    "service-worker.js": "/spiceliveteam/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/spiceliveteam/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.de6bd89b.chunk.css.map": "/spiceliveteam/static/css/main.de6bd89b.chunk.css.map",
+    "static/js/2.173e4383.chunk.js.LICENSE.txt": "/spiceliveteam/static/js/2.173e4383.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/spiceliveteam/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d11f24b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.173e4383.chunk.js",
+    "static/css/main.de6bd89b.chunk.css",
+    "static/js/main.bb308dce.chunk.js"
+  ]
+}
